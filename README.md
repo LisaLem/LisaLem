@@ -1,4 +1,9 @@
-## Hi there 👋
+## Salut ✌ 
+
+Actuellement en train d'apprendre et de construire cette page
+
+![salem-cat-salem-sabrina](https://github.com/user-attachments/assets/909cab55-a0eb-49c0-b2ac-09bab4799eb2)
+
 
 <!--
 **LisaLem/LisaLem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
